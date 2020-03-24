@@ -10,7 +10,7 @@ package project1;
  * @author hp
  */
 import javax.swing.table.DefaultTableModel; 
-public class LaporanPengeluaran extends javax.swing.JFrame {
+public class LaporanPengeluaran extends javax.swing.JFrame  {
 
     
     DefaultTableMode TabPengeluaran;
